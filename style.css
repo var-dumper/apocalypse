@@ -1,0 +1,16 @@
+@charset='utf-8';
+
+article{
+	padding: 12px 32px;
+  border-bottom: 1px solid #ccc;
+  margin: 0 auto;
+  width: 65%;
+  color: #666;
+}
+article p{ text-indent: 2em;}
+article h1,article h2{ color:#333;}
+.author > img{
+		width: 28px;
+    border-radius: 33px;
+}
+.date{text-align: right;font-size: .7em;}
